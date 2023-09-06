@@ -10,7 +10,7 @@ import "./Navbar.scss";
 
 const Navbar = () => {
   const [image, setImage] = useState(null);
-  const [error, setError] = useState(null);
+  // const [error, setError] = useState(null);
   const [toggle, setToggle] = useState(false);
 
   useEffect(() => {
