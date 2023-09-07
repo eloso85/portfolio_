@@ -31,19 +31,19 @@ const Footer = () => {
 
   return (
     <>
-      <h2 className="head-text">Take a coffee & chat with me</h2>
+      <h2 className="head-text">Message me & lets talk</h2>
 
       <div className="app__footer-cards">
         <div className="app__footer-card ">
           <img src={images.email} alt="email" />
-          <a href="mailto:hello@micael.com" className="p-text">
-            hello@micael.com
+          <a href="mailto:eloso5891@gmail.com" className="p-text">
+            Email Me
           </a>
         </div>
         <div className="app__footer-card">
           <img src={images.mobile} alt="phone" />
-          <a href="tel:+1 (123) 456-7890" className="p-text">
-            (512) 591-5016
+          <a href="tel:5125915016" className="p-text">
+            Call Me
           </a>
         </div>
       </div>
